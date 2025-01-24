@@ -17,7 +17,7 @@ public:
 	~TreeNode(){
 		delete left;
 		delete right;
-		//delete this;
+
 	}
 	
 
